@@ -2,8 +2,6 @@ add a new player
 add a new member
 Buy a camera
 Play basketballMake pizza.
-Clean the code
-New change
 We just made a change
 Master Python!
 Anything
