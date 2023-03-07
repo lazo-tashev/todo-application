@@ -1,2 +1,2 @@
 # todo-application
-Simple To Do application coded in Python
+To Do application coded in Python
